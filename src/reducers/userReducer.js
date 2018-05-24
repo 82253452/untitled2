@@ -21,6 +21,6 @@ export default handleActions({
     }),
 }, {
     user: {},
-    status: true,
+    status: false,
 })
 ;
